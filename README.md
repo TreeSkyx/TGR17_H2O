@@ -1,4 +1,4 @@
-# TGR17_H2O
+# TOPGUN Rally #17 2023: H2O Team
 This repository contains the code developed by my team, **H2O**, to win the **TOPGUN Rally 17** competition.
 
 ## Table of Contents
@@ -8,7 +8,7 @@ This repository contains the code developed by my team, **H2O**, to win the **TO
 - [Contributors](#contributors)
 
 ## Reward
-- First Prize of Monitoring and Management System of Flood and Drought Condition development
+- Royal Cup 1st award of Monitoring and Management System of Flood and Drought Condition development: TOPGUN Rally #17
 - Top Score on Hydrological Modeling
 - Top Score on Integration System
 
